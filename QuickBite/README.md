@@ -2,6 +2,12 @@
 
 A robust .NET 9 Web API for managing restaurant food menus with comprehensive validation, error handling, and test coverage.
 
+## 🔴 **Currently Running**
+
+- **API Base URL**: `http://localhost:5289`
+- **Swagger UI**: **[http://localhost:5289/swagger](http://localhost:5289/swagger)** ← Click to open API documentation
+- **Status**: ✅ Active
+
 ## 🚀 Features
 
 - **CRUD Operations** for food items
